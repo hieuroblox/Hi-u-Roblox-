@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Hiếu Roblox",--Hiếu Roblox-VNG 
+    logoscript = "108008998284351",--ID Logo Script
+    tacgia = "sadas"-- Hiếu Roblox
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
